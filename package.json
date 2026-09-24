@@ -1,0 +1,11 @@
+{
+  "name": "sumit-content-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Telegram idea -> 2 LinkedIn drafts in Sumit's voice",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@vercel/functions": "^2.0.0"
+  }
+}
